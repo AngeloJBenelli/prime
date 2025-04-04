@@ -97,5 +97,5 @@ body {
 }
 
 .icono-red:hover {
-    transform: scale(1.1); /* Efecto al pasar el mouse */
+    transform: scale(1.1);
 }
